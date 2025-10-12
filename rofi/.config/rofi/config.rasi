@@ -1,5 +1,0 @@
-configuration {
-  modi: "window,run";
-  theme: "Arcdark";
-  font: "ubuntu mono nerd font 16";
- }
